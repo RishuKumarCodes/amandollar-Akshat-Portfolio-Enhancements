@@ -689,7 +689,7 @@ function Footer() {
           <motion.div variants={itemVariants} className="flex space-x-6">
             {[
               { icon: FaGithub, href: "https://github.com/akshattiwari0055" },
-              { icon: FaLinkedin, href: "https://linkedin.com/in/akshat-tiwari" },
+              { icon: FaLinkedin, href: "https://www.linkedin.com/in/akshat-tiwari-92519a277/" },
               { icon: HiOutlineMail, href: "mailto:akshattiwari69399@gmail.com" }
             ].map((item, index) => (
               <a 
